@@ -1,0 +1,4 @@
+/palindrome-checker
+/test-results/
+*.log
+*.tmp
